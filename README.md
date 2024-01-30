@@ -5,3 +5,5 @@ specifiche del DISI.
 
 Scopri di più sulla [wiki di
 CSUnibo](https://csunibo.github.io/wiki/modelli-di-tesi/latex/index.html).
+
+Tesi in [PDF](https://Tiestaa.github.io/tesi/tesi.pdf)
